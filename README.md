@@ -52,8 +52,14 @@ To run this project locally, follow these steps:
                             OR
 2. Download Zip File Then Open in Editor(Vs Code).
     Then Run The following commands: 
-    1.```bash npm install [This will install require modules]
+    1. This will install require modules.
+      ```bash
+      npm install
 
-    2.```bash npm install tailwindcss @tailwindcss/vite [This will install tailwind css for project]
+    2. This will install tailwind css for project
+      ```bash
+      npm install tailwindcss @tailwindcss/vite 
 
-    3.```bash npm run dev [To run the project]
+    3. To run the project
+      ```bash
+       npm run dev
